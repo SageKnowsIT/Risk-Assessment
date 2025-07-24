@@ -12,7 +12,7 @@ import os
     """
 
     def my_function():
-        # This part of the function was added by [Another Contributor] on [Date].
+        # This part of the function was added by Sage N Clements on 07.24.2025.
         pass
 
 
